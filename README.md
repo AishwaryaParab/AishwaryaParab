@@ -39,10 +39,12 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Top Languages</summary>
 
   <img align="left" alt="Aishwarya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaParab&layout=compact" />
 
-</details>
+</details> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaParab&layout=compact)](https://github.com/AishwaryaParab/github-readme-stats)
 

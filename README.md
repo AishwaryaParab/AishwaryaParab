@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Parab</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Nextjs, advanced Nodejs and Spring.**
+- 🌱 I’m currently learning **Nextjs, Advanced Nodejs and Springboot.**
 
-- 👯 I’m looking to collaborate on **web development projects.**
+- 👯 I’m looking to collaborate on **Web Development projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AishwaryaParab](https://github.com/AishwaryaParab)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://aishwaryaparab.netlify.app/](https://aishwaryaparab.netlify.app/)
 
-- ⚡ Fun fact **I love sharing my knowledge on YouTube!**
+- ⚡ Fun fact **I love sharing my knowledge on [YouTube](https://aishwaryaparab.netlify.app/)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,13 +31,11 @@
 ---
 
 <br>
-<br>
 
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaParab&show_icons=true&theme=radical)
 
 ---
 
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaParab&layout=compact)](https://github.com/AishwaryaParab/github-readme-stats)

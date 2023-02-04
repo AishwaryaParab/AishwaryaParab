@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aishwaryaparab**
 
-- 📄 Know about my experiences [https://aishwaryaparab.netlify.app/](https://aishwaryaparab.netlify.app/)
+- 📄 Know about my experiences on my **[Portfolio Website](https://aishwaryaparab.netlify.app/)**
 
-- ⚡ Fun fact **I love sharing my knowledge on [YouTube](https://aishwaryaparab.netlify.app/)!**
+- ⚡ Fun fact **I love sharing my knowledge on [YouTube](https://www.youtube.com/c/@aishwaryaparab7123)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

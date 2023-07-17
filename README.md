@@ -32,11 +32,11 @@
 
 <br>
 
-![Aishwarya's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AishwaryaParab&show_icons=true&theme=radical)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaParab&show_icons=true&theme=radical&)
 
 ---
 
 <br>
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=AishwaryaParab&layout=compact)](https://github.com/AishwaryaParab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaParab&layout=compact&)](https://github.com/AishwaryaParab/github-readme-stats)
 
